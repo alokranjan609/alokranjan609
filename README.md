@@ -16,25 +16,14 @@
 ### 📫 Contact Me
 - 📧 Email: **alokthakur609@gmail.com**
 
----
-
 ### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/alok-ranjan-820696251/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30"/>
-  </a>
-  <a href="https://www.kaggle.com/garraa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="30" width="30"/>
-  </a>
-  <a href="https://www.codechef.com/users/alok609" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="30" width="30"/>
-  </a>
-  <a href="https://codeforces.com/profile/alok609" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" height="30" width="30"/>
-  </a>
-</p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/alok-ranjan-820696251/">LinkedIn</a> •
+  <a href="https://www.kaggle.com/garraa">Kaggle</a> •
+  <a href="https://www.codechef.com/users/alok609">CodeChef</a> •
+  <a href="https://codeforces.com/profile/alok609">Codeforces</a>
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -52,17 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokranjan609&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokranjan609&layout=compact" />
-</p>
-
----
 
 ### 🚀 About Me
 - 🔭 Working on scalable backend systems & real-time applications  
